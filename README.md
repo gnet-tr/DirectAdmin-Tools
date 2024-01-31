@@ -2,4 +2,5 @@ Directadmin sunucularda barınan siteler için change this page, upload a new in
 
 
 wget https://raw.githubusercontent.com/kskkfatih/DirectAdmin-Tools/main/public.sh
+
 sh public.sh
