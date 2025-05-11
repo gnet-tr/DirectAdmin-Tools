@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# ==========================================================================
+# Script: public.sh
+# Amacı : # DirectAdmin panelinde varsayılan olarak görünen
+# “Change this page, upload a new index.html to your private_html folder” uyarısını
+# gidermek için, private_html klasörünü public_html'e sembolik link olarak bağlar.
+# Kaynak: https://www.gnet.tr | Gnet tarafından açık kaynak olarak sunulmuştur.
+# Tarih : 2025
+# ==========================================================================
+
+
 # DirectAdmin hesapları dizinine git
 cd /usr/local/directadmin/data/users
 
