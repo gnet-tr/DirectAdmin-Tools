@@ -51,7 +51,7 @@ Daha fazla teknik içerik, komut dosyası ve sistem yöneticilerine yönelik ara
 
 > 🛑 **Sorumluluk Reddi:**  
 > Bu script, genel senaryolar dikkate alınarak hazırlanmıştır.  
-> Her sunucu ortamı farklılık gösterebileceğinden, doğabilecek veri kaybı, kesinti veya yapılandırma sorunlarında **Gnet sorumluluk kabul etmez.**.
+> Her sunucu ortamı farklılık gösterebileceğinden, doğabilecek veri kaybı, kesinti veya yapılandırma sorunlarında **Gnet sorumluluk kabul etmez.**
 İşlem öncesinde sunucunuzun tam yedeğini veya bir snapshot yedeği almanız önemle tavsiye edilir.
 
 
