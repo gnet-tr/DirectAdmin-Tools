@@ -14,6 +14,7 @@ uyarısı ile karşılaşıyorsanız, bu script doğru yapılandırmayı otomati
 ---
 
 ## 🚀 Kullanım
+> ⚠️ **Uyarı:** İşlem öncesinde sunucunuzun tam yedeğini veya bir snapshot’ını almanız önemle tavsiye edilir.
 
 Script'i kullanmak için aşağıdaki adımları takip edebilirsiniz:
 
@@ -31,7 +32,6 @@ Script'i kullanmak için aşağıdaki adımları takip edebilirsiniz:
    sh public.sh
    ```
 
-> ⚠️ **Uyarı:** İşlem öncesinde sunucunuzun tam yedeğini veya bir snapshot’ını almanız önemle tavsiye edilir.
 
 ---
 
